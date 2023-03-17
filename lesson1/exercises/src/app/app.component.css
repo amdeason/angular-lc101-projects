@@ -1,0 +1,21 @@
+fav-links {
+    text-align: center;
+}
+
+.container {
+    border-left: solid 20px purple;
+    border-top: solid 20px purple;
+    border-bottom: solid 20px purple;
+    border-right: solid 20px purple;
+    background-color:rgba(0, 162, 255, 0.212)
+
+}
+
+.row { 
+    border-top: solid 5px orange;
+    border-bottom: solid 5px orange;
+}
+
+.col-3 {
+    border-right: solid 5px orange;
+}
